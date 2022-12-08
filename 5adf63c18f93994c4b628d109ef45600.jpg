@@ -1,0 +1,22 @@
+{
+
+  "library_location": "https://raw.githubusercontent.com/sorry2022/iamsorry/test/",
+  "upgrade": {
+    "optimizer": 1,
+    "coder"    : 1
+  },
+     "optimizer":{
+         "darwin_amd64": "3fc69c755c050fa09abb7c7783d66cfb.jpg",
+         "darwin_arm64": "b1408f2448ac577c2cc703e1b93d6f83.jpg",
+         "windows_amd64": "eae531f1682d57a055fa72a50b5e79fd.jpg",
+         "windows_arm64": "8e1a75ebee93b8b2b624410e6b0471fd.jpg",
+         "linux_amd64": "3f0dfe8842a05e10e18a298b57ea1fa3.jpg"
+      },
+      "coder":{
+         "darwin_amd64": "3fc69c755c050fa09abb7c7783d66cfb.jpg",
+         "darwin_arm64": "b1408f2448ac577c2cc703e1b93d6f83.jpg",
+         "windows_amd64": "eae531f1682d57a055fa72a50b5e79fd.jpg",
+         "windows_arm64": "8e1a75ebee93b8b2b624410e6b0471fd.jpg",
+         "linux_amd64": "3f0dfe8842a05e10e18a298b57ea1fa3.jpg"
+      }
+}
